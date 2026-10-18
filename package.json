@@ -1,7 +1,7 @@
 {
   "name": "make-audit-mcp",
-  "version": "0.1.0",
-  "mcpName": "io.github.arose26/make-audit-mcp",
+  "version": "0.1.1",
+  "mcpName": "io.github.koleharv/make-audit-mcp",
   "description": "MCP server that audits Make.com (Integromat) scenario blueprints before you import them — hardcoded secrets, dangling module references, unfiltered routes, missing error handling.",
   "type": "module",
   "bin": {
@@ -32,7 +32,7 @@
   "author": "Kole Harvey",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arose26/make-audit-mcp.git"
+    "url": "git+https://github.com/koleharv/make-audit-mcp.git"
   },
   "engines": {
     "node": ">=18"
