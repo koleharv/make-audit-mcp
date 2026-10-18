@@ -1,17 +1,17 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.arose26/make-audit-mcp",
+  "name": "io.github.koleharv/make-audit-mcp",
   "description": "Audit Make.com blueprints before importing: hardcoded secrets, dangling refs, risky settings.",
   "repository": {
-    "url": "https://github.com/arose26/make-audit-mcp",
+    "url": "https://github.com/koleharv/make-audit-mcp",
     "source": "github"
   },
-  "version": "0.1.0",
+  "version": "0.1.1",
   "packages": [
     {
       "registryType": "npm",
       "identifier": "make-audit-mcp",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "transport": {
         "type": "stdio"
       }
